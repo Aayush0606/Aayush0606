@@ -69,4 +69,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
   </p>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aayush0606&label=Profile%20views&color=ce9927&style=flat" alt="Aayush0606" /> </p>
 *************
