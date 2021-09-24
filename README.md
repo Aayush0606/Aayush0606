@@ -18,6 +18,7 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Web Devlopment
+- ✨ App Devlopment
 
 ### - Hobbies : 
 - ✨ Gaming Addict
